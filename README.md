@@ -16,3 +16,4 @@
 - Changes after adding book will be reflected without refreshing page
 - Easily Accessible
 - Great User Experience
+- Theme is related to the topic
