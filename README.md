@@ -19,3 +19,4 @@
 - Easily Accessible
 - Great User Experience
 - Theme is related to the topic
+- To save the bandwidth of smartphones, background video will only work in desktops.
